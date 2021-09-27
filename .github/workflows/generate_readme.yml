@@ -13,8 +13,8 @@ on:
       - main.py
 
 env:
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: Luckyyyyyyy
+  GITHUB_EMAIL: a466151231@gmail.com
 
 jobs:
   sync:
@@ -58,5 +58,5 @@ jobs:
           commit-message: "Refresh README AND BACK UP"
           files: README.md BACKUP/
           rebase: 'true'
-          name: 'LinJincan'
-          email: 'a466151231@gmail.com'
+          name: ${{ env.GITHUB_NAME }}
+          email: ${{ env.GITHUB_EMAIL }}
