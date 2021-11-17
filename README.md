@@ -17,6 +17,7 @@ My personal blog using issues and GitHub Actions
 - [无名](https://github.com/Luckyyyyyyy/phh-blog/issues/8)--2021-11-17
 - [老孔孟](https://github.com/Luckyyyyyyy/phh-blog/issues/7)--2021-11-17
 ## 读书笔记
+- [了凡四训](https://github.com/Luckyyyyyyy/phh-blog/issues/14)--2021-11-17
 - [《情绳》-简媜](https://github.com/Luckyyyyyyy/phh-blog/issues/12)--2021-11-17
 - [基督山伯爵](https://github.com/Luckyyyyyyy/phh-blog/issues/11)--2021-11-17
 - [费曼学习法](https://github.com/Luckyyyyyyy/phh-blog/issues/10)--2021-11-17
