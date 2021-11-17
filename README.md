@@ -4,11 +4,11 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [友情链接 ](https://github.com/Luckyyyyyyy/phh-blog/issues/31)--2021-11-17
 - [幸福之路 (罗素)](https://github.com/Luckyyyyyyy/phh-blog/issues/30)--2021-11-17
 - [七年就是一辈子 (李笑来)](https://github.com/Luckyyyyyyy/phh-blog/issues/29)--2021-11-17
 - [草莓人生(荻原浩)](https://github.com/Luckyyyyyyy/phh-blog/issues/28)--2021-11-17
 - [腾讯传1998—2016(吴晓波)](https://github.com/Luckyyyyyyy/phh-blog/issues/27)--2021-11-17
-- [硅谷钢铁侠：埃隆·马斯克的冒险人生((美)阿什利·万斯)](https://github.com/Luckyyyyyyy/phh-blog/issues/26)--2021-11-17
 ## 婚姻
 - [婚姻关系](https://github.com/Luckyyyyyyy/phh-blog/issues/9)--2021-11-17
 ## 工作
