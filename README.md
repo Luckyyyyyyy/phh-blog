@@ -1,5 +1,5 @@
 ## Gitblog
-My personal blog using issues and GitHub Actions
+From https://github.com/yihong0618/gitblog
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
