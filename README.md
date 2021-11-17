@@ -1,8 +1,6 @@
 ## Gitblog
 From https://github.com/yihong0618/gitblog
-## 友情链接
-| Name | Link | Desc | 
- | ---- | ---- | ---- |
+ 
 ## 最近更新
 - [友情链接 ](https://github.com/Luckyyyyyyy/phh-blog/issues/31)--2021-11-17
 - [幸福之路 (罗素)](https://github.com/Luckyyyyyyy/phh-blog/issues/30)--2021-11-17
