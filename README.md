@@ -4,11 +4,11 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [我不是教你诈 (刘墉)](https://github.com/Luckyyyyyyy/phh-blog/issues/39)--2021-11-19
 - [品人录(易中天)](https://github.com/Luckyyyyyyy/phh-blog/issues/38)--2021-11-18
 - [帝国三部曲 (易中天)](https://github.com/Luckyyyyyyy/phh-blog/issues/37)--2021-11-18
 - [江湖 (郭德纲)](https://github.com/Luckyyyyyyy/phh-blog/issues/36)--2021-11-18
 - [把自己当回事儿(杨天真)](https://github.com/Luckyyyyyyy/phh-blog/issues/35)--2021-11-18
-- [别想太多啦([日]名取芳彦)](https://github.com/Luckyyyyyyy/phh-blog/issues/34)--2021-11-18
 ## 婚姻
 - [婚姻关系](https://github.com/Luckyyyyyyy/phh-blog/issues/9)--2021-11-17
 ## 工作
@@ -19,13 +19,14 @@ My personal blog using issues and GitHub Actions
 - [无名](https://github.com/Luckyyyyyyy/phh-blog/issues/8)--2021-11-17
 - [老孔孟](https://github.com/Luckyyyyyyy/phh-blog/issues/7)--2021-11-17
 ## 读书笔记
+- [我不是教你诈 (刘墉)](https://github.com/Luckyyyyyyy/phh-blog/issues/39)--2021-11-19
 - [品人录(易中天)](https://github.com/Luckyyyyyyy/phh-blog/issues/38)--2021-11-18
 - [帝国三部曲 (易中天)](https://github.com/Luckyyyyyyy/phh-blog/issues/37)--2021-11-18
 - [江湖 (郭德纲)](https://github.com/Luckyyyyyyy/phh-blog/issues/36)--2021-11-18
 - [把自己当回事儿(杨天真)](https://github.com/Luckyyyyyyy/phh-blog/issues/35)--2021-11-18
-- [别想太多啦([日]名取芳彦)](https://github.com/Luckyyyyyyy/phh-blog/issues/34)--2021-11-18
 <details><summary>显示更多</summary>
 
+- [别想太多啦([日]名取芳彦)](https://github.com/Luckyyyyyyy/phh-blog/issues/34)--2021-11-18
 - [弃猫 当我谈起父亲时(村上春树)](https://github.com/Luckyyyyyyy/phh-blog/issues/33)--2021-11-18
 - [中国人史纲(柏杨)](https://github.com/Luckyyyyyyy/phh-blog/issues/32)--2021-11-18
 - [幸福之路 (罗素)](https://github.com/Luckyyyyyyy/phh-blog/issues/30)--2021-11-17
