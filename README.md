@@ -4,11 +4,13 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
-- [友情链接](https://github.com/Luckyyyyyyy/phh-blog/issues/42)--2021-11-19
+- [俯卧撑](https://github.com/Luckyyyyyyy/phh-blog/issues/43)--2021-11-28
 - [人生哲思录(周国平)](https://github.com/Luckyyyyyyy/phh-blog/issues/41)--2021-11-19
 - [说话的魅力(刘墉)](https://github.com/Luckyyyyyyy/phh-blog/issues/40)--2021-11-19
 - [我不是教你诈 (刘墉)](https://github.com/Luckyyyyyyy/phh-blog/issues/39)--2021-11-19
 - [品人录(易中天)](https://github.com/Luckyyyyyyy/phh-blog/issues/38)--2021-11-18
+## 健身
+- [俯卧撑](https://github.com/Luckyyyyyyy/phh-blog/issues/43)--2021-11-28
 ## 婚姻
 - [婚姻关系](https://github.com/Luckyyyyyyy/phh-blog/issues/9)--2021-11-17
 ## 工作
